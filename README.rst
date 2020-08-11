@@ -3,9 +3,9 @@ Font Awesome and Markdown, together!
 このProjectはDiscordのアイコンを追加するだけのものです。  
 他の物は気が向いたらやるかもしれません  
 FontAwesomeのリンクは以下の物などをお使いください。  
-```
+``code-block
 https://use.fontawesome.com/releases/v5.6.1/css/all.css
-```
+``
 For when words aren't enough.
 -----------------------------
 
