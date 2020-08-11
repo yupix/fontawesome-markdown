@@ -3587,5 +3587,8 @@ icons = {
   ],
   "zhihu": [
     "brands"
+  ],
+  "discord": [
+    "brands"
   ]
 }
